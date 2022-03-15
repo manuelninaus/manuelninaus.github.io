@@ -3,7 +3,7 @@
     "path": "~/GitHub/manuelninaus.github.io/_config.yml",
     "project_path": "_config.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "3860881550",
     "contents": "",
     "dirty": false,
     "created": 1647355243542.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "2,45",
+        "cursorPosition": "2,20",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1647355168,
+    "lastKnownWriteTime": 1647355326,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1647355168,
+    "last_content_update": 1647355326059,
     "read_only": false,
     "read_only_alternatives": []
 }
