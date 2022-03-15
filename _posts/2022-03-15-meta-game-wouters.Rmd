@@ -18,7 +18,7 @@ Consistent with our hypotheses, serious games were found to be more effective in
 Additional moderator analyses on the learning effects revealed that learners in serious games learned more, relative to those taught with conventional instruction methods, when the game was supplemented with other instruction methods, when multiple training sessions were involved, and when players worked in groups.
 
 # MUCH WOW!
-<img class="img-fluid" src="https://source.unsplash.com/qDY9ahp0Mto/800x450" alt="BookChild">
+<img class="img-fluid" src="https://source.unsplash.com/qDY9ahp0Mto/400x225" alt="BookChild">
 ![Child with book](/assets/images/bookchild.jpg)
 
 
