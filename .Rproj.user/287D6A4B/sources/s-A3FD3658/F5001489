@@ -1,12 +1,12 @@
 {
-    "id": "FAD16D6C",
+    "id": "F5001489",
     "path": "~/GitHub/manuelninaus.github.io/_config.yml",
     "project_path": "_config.yml",
     "type": "yaml",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1647355243542.0,
+    "created": 1647355549393.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
@@ -20,7 +20,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1647355485466,
+    "last_content_update": 1647355485,
     "read_only": false,
     "read_only_alternatives": []
 }
