@@ -22,6 +22,7 @@ involved, and when players worked in groups.
 
 # MUCH WOW!
 
+<img class="img-fluid" src="https://source.unsplash.com/qDY9ahp0Mto/800x450" alt="BookChild">
 ![Child with book](/assets/images/bookchild.jpg)
 
 ## GitHub Documents
